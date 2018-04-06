@@ -27,7 +27,7 @@ googleAnalytics = "UA-116926668-1"
     weight = 2
 
 [[menu.main]]
-    url = "/project/"
+    url = "/chunk/"
     name = "Chunks"
     weight = 3
     

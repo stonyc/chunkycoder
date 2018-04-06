@@ -3,8 +3,8 @@ title: Area Plots and Histograms for Multiple Distributions
 author: Tony Chun
 date: '2018-04-06'
 slug: area-plots-and-histograms-for-multiple-distributions
-categories: ["chunks", "R", "ggplot"]
-tags: ["visualization", "histograms", "density", "area", "data"]
+categories: ["chunks"]
+tags: ["R", "ggplot", "visualization"]
 ---
 
 As a first post, I thought that I would go over a few different ways to visualize multiple distributions using histograms and area plots, as well as how different parameters might change how you view and interpret that data. In addition, perhaps you might learn from mistakes that I made along the way.
